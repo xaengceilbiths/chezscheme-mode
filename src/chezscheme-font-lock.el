@@ -616,7 +616,7 @@
      1 font-lock-type-face)
 
     ;; Braces.
-    ("\\([\\{\\}]\\)"
+    ("\\([{}]\\)"
      (1 my-font-lock-brace-face))
 
     ;;This does numeric bytevectors.
